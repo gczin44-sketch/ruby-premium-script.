@@ -40,10 +40,10 @@ task.spawn(function()
     task.wait(1)
     IntroText.Text = "🥊 💥 🥊"
     task.wait(0.8)
-    IntroText.Text = "💥 🥊 🏆: E NOIX QUE TA"
+    IntroText.Text = "💥 🥊 🏆: E NOIX QUE TA Rlk MT e Rlk GB porra"
     task.wait(1)
     IntroText.TextColor3 = Color3.fromRGB(255, 50, 50)
-    IntroText.Text = "AGITA PORRA !"
+    IntroText.Text = "AGITA PORRA NO DF E NOIX Q TA!"
     task.wait(1.8)
 
     local fadeBackground = TweenService:Create(Background, TweenInfo.new(1), {BackgroundTransparency = 1})
@@ -63,10 +63,10 @@ task.wait(4.8)
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "💎 Ruby Premium - Torcidas Online",
+   Name = "💎Torcidas Online",
    Icon = 0,
    LoadingTitle = "Ruby Premium",
-   LoadingSubtitle = "Edição São Paulo",
+   LoadingSubtitle = "Edição BRASILEIRA DF",
    Theme = "Default",
    DisableRayfieldPrompts = false,
    DisableBuildWarnings = false,

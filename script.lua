@@ -47,6 +47,7 @@ task.spawn(function()
     task.wait(1.8)
 
     local fadeBackground = TweenService:Create(Background, TweenInfo.new(1), {BackgroundTransparency = 1})
+
     local fadeText = TweenService:Create(IntroText, TweenInfo.new(1), {TextTransparency = 1})
 
     fadeBackground:Play()
